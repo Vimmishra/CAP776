@@ -1,0 +1,82 @@
+------------------------------------------------------------------------------
+   CAP776 Minor Project #1: My Data, My Story
+==============================================================================
+Student Name     : Vimal Mishra
+Registration No. : 12617058
+Course / Section : MCA - D1P2633
+Data File        : 12617058.xlsx
+Worksheet        : Daily Log
+------------------------------------------------------------------------------
+Recording Period : 2026-08-13 to 2026-09-23
+Logged Days      : 42 / 40 expected days
+------------------------------------------------------------------------------
+
+1. Activity Data Summary (Daily Averages)
+------------------------------------------------------------------------------
+Expected number of days           : 40
+Valid days recorded               : 42
+Missing days                      : 0
+Invalid / excluded records        : 0
+Average Sleep / day               : 449.05 min/day (~7.48 hrs)
+Average Fitness / day             : 17.98 min/day (~0.30 hrs)
+Average Study / day               : 188.10 min/day (~3.13 hrs)
+Average Coding / day              : 201.67 min/day (~3.36 hrs)
+Average Class / day               : 191.67 min/day (~3.19 hrs)
+Average Other Activities / day    : 180.71 min/day (~3.01 hrs)
+Average Free / Unaccounted Time   : 210.83 min/day (~3.51 hrs)
+------------------------------------------------------------------------------
+
+2. Activity Index Values
+------------------------------------------------------------------------------
+Index Name                       Acronym  Value              Unit / Scale
+------------------------------------------------------------------------------
+Tech Productivity                TPI          201.67        min/day
+Academic Activity                AAI          379.76        min/day
+Physical Activity                PhAI          17.98        min/day
+Sleep & Recovery                 SRI          449.05        min/day
+Activity Balance                 ABI          210.83        min/day
+Time Utilization                 TUI         1229.17        min/day
+Experience Index                 EI             3.39        / 5
+Data Continuity Index            DCI          105.00        %
+------------------------------------------------------------------------------
+Personal Activity Index          PAI          388.67        composite score
+==============================================================================
+
+[Time Budget Balance Verification]
+Total Tracked (TUI) + Free Time (ABI) = 1229.17 + 210.83 = 1440.00 minutes
+24 Hours = 1440.00 minutes -> Variance = 0.00 minutes (100% time accounted for)
+
+==============================================================================
+   RELATIONSHIP ANALYSIS (Pearson Correlation Coefficient - r)
+==============================================================================
+
+1. Sleep <-> Energy:
+   r = +0.2410 (weak positive relationship between Sleep Duration and Energy Level)
+   My Observation: When I slept around 8 to 8.5 hours, I woke up with my highest energy.
+   Sleeping longer (past 9.5 hours) often occurred when there is weekend, No classes
+
+2. Study <-> Satisfaction:
+   r = -0.0411 (negligible negative relationship between Study Time and Satisfaction Level)
+   My Observation: My daily satisfaction stayed consistent across the 42 days
+   and was not solely dependent on isolated study time, but rather overall balance.
+
+3. Coding <-> Energy:
+   r = +0.2094 (weak positive relationship between Coding Time and Energy Level)
+   My Observation: On days I had higher energy, I naturally spent more time coding,
+   and completing my practical tasks kept me actively engaged.
+
+==============================================================================
+   FINDINGS ABOUT MY ROUTINE & AREAS FOR IMPROVEMENT
+==============================================================================
+Findings About Myself:
+- Academic and technical focus remained my highest waking priority (3.47 hrs/day
+  academic activity and 3.36 hrs/day coding practice).
+- My sleep routine was prioritized (7.48 hrs/day).
+- I logged all 40 planned days with zero gaps, achieving a 100% Data Continuity Index.
+
+Areas to Improve:
+- Physical fitness averaged only 17 minutes per day. I plan to schedule dedicated
+  morning workout sessions to improve my physical activity index (PhAI).
+  and maintain peak afternoon focus.
+==============================================================================
+
